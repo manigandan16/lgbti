@@ -1,0 +1,46 @@
+/* default-v2.css – SurveyJS Theme */
+
+:root {
+  --sv-bg-color: #ffffff;
+  --sv-text-color: #000000;
+  --sv-border-color: #cccccc;
+  --sv-primary-color: #1e87f0;
+  --sv-font-size: 14px;
+  --sv-border-radius: 4px;
+}
+
+.sv_main {
+  background-color: var(--sv-bg-color);
+  color: var(--sv-text-color);
+  font-size: var(--sv-font-size);
+  font-family: Arial, sans-serif;
+}
+
+.sv_question {
+  margin-bottom: 16px;
+}
+
+.sv_q_title {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.sv_q_radiogroup .sv_q_radio_label {
+  display: block;
+  padding: 4px;
+  border: 1px solid var(--sv-border-color);
+  border-radius: var(--sv-border-radius);
+  margin-bottom: 4px;
+  cursor: pointer;
+}
+
+.sv_q_radiogroup .sv_q_radio_label:hover {
+  background-color: var(--sv-primary-color);
+  color: #ffffff;
+}
+
+.sv_q_radiogroup input[type="radio"]:checked + .sv_q_radio_label {
+  background-color: var(--sv-primary-color);
+  color: #ffffff;
+  border-color: var(--sv-primary-color);
+}
