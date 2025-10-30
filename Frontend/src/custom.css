@@ -1,0 +1,9 @@
+.sv_q_checkbox .sv-item--disabled {
+    font-weight: bold;
+    color: #333;
+    cursor: default !important;
+}
+
+.sd-visuallyhidden {
+    display: none !important;
+}

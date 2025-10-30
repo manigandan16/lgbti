@@ -1,0 +1,950 @@
+﻿description â†“ - language â†’,default,hindi
+survey.description,Version 1.3.3,
+survey.Page0.Resp_Name.title,Name of Respondent,रेस्पोंडेंट का नाम
+survey.Page0.Int_Name.title,Name of the Interviewer,इंटरव्यूअर का नाम
+survey.Page1.State.title,State,राज्य
+survey.Page1.State.choices.1,Odisha,ओडिशा
+survey.Page1.State.choices.2,West Bengal,पश्चिम बंगाल
+survey.Page1.State.choices.3,Bihar,बिहार
+survey.Page1.State.choices.4,Chhattisgarh,छत्तीसगढ
+survey.Page1.State.choices.5,Madhya Pradesh,मध्य प्रदेश
+survey.Page1.State.choices.6,Chandigarh,चंडीगढ़
+survey.Page1.State.choices.7,Uttar Pradesh,उत्तर प्रदेश
+survey.Page1.State.choices.8,Delhi,दिल्ली
+survey.Page1.State.choices.9,Manipur,मणिपुर
+survey.Page1.State.choices.10,Assam,असम
+survey.Page1.State.choices.11,Karnataka,कर्नाटक
+survey.Page1.State.choices.12,Tamil Nadu,तमिलनाडु
+survey.Page1.State.choices.13,Telengana,तेलंगाना
+survey.Page1.State.choices.14,Gujarat,गुजरात
+survey.Page1.State.choices.15,Maharashtra,महाराष्ट्र
+survey.Page1.State.choices.16,Goa,गोवा
+survey.Page2.District.title,District,ज़िला
+survey.Page2.District.choices.1,Bhubaneshwar,भुवनेश्वर
+survey.Page2.District.choices.2,Kolkata,कोलकाता
+survey.Page2.District.choices.3,Patna,पटना
+survey.Page2.District.choices.4,Raipur,रायपुर
+survey.Page2.District.choices.5,Bhopal,भोपाल
+survey.Page2.District.choices.6,Chandigarh,चंडीगढ़
+survey.Page2.District.choices.7,Varanasi,वाराणसी
+survey.Page2.District.choices.8,Lucknow,लखनऊ
+survey.Page2.District.choices.9,Delhi,दिल्ली
+survey.Page2.District.choices.10,Imphal,इंफाल
+survey.Page2.District.choices.11,Guwahati,गुवाहाटी
+survey.Page2.District.choices.12,Bangalore,बैंगलोर
+survey.Page2.District.choices.13,Chennai,चेन्नई
+survey.Page2.District.choices.14,Hyderabad,हैदराबाद
+survey.Page2.District.choices.15,Ahmedabad,अहमदाबाद
+survey.Page2.District.choices.16,Mumbai,मुंबई
+survey.Page2.District.choices.17,Pune,पुणे
+survey.Page2.District.choices.18,Goa,गोवा
+survey.Page3.N_Area.title,Name of Area,एरिया का नाम
+survey.Page3.N_Area.description,Type here,यहाँ टाइप करें
+survey.Page4.T_Area.title,Type of area,एरिया का प्रकार
+survey.Page4.T_Area.description,Ensure to correctly map the urbanity,शहरी क्षेत्र का सही मानचित्र सुनिश्चित करें
+survey.Page4.T_Area.choices.1,Urban,शहरी
+survey.Page4.T_Area.choices.2,Rural,ग्रामीण
+survey.Page4.T_Area.choices.3,Semi-urban,अर्ध शहरी
+survey.Page5.Int1.html,"<b>A. Introduction and Consent<br></b><br>
+Good morning/afternoon/evening. I am [Name of Interviewer] from Ipsos. Ipsos is a global research organisation, dedicated to understanding public opinion on different socio-demographic topics across the world.
+<p>
+    <b>Study Introduction</b>
+</p>
+<p>
+    We are conducting this study to gather important insights into the financial inclusion of the LGBTI community on behalf of International Finance Corporation (IFC), a member of the World Bank Group. This study aims to gather insights on both the barriers and opportunities for financial inclusion of LGBTI individuals in India. Your participation will help us provide useful information to banks and financial institutions so they can create products and services that better meet the needs of the LGBTI community.
+</p>
+<p>
+    <b>Survey topic and duration</b>:
+</p>
+<p>
+    The survey covers questions to gain a deeper understanding of your experiences of accessing and using various financial institutions (banks, mortgage and lending companies, etc.) to access financial products (bank accounts, insurance, etc.) or services (loans, etc.). Participation in this survey will take approximately 30 minutes of your time.
+</p>
+<p>
+    <b>Voluntary Participation</b>
+</p>
+<p>
+    Your participation is entirely voluntary. You may withdraw from the survey at any point without any consequences.
+</p>
+<p>
+    <b>Confidentiality and Data Storage</b>
+</p>
+<p>
+    All information collected in this study is entirely confidential and will be used solely for research purposes. Data will be anonymized and stored securely, ensuring no personal identifiers are recorded.
+</p>
+<p>
+    <b>Potential Risks</b>
+</p>
+<p>
+    We acknowledge that participating in discussions about financial inclusion involves minimal risk. We are committed to ensuring the confidentiality and comfort of all participants by strictly adhering to ethical guidelines.
+</p>
+<p>
+    <b>Informed Consent</b>:
+</p>
+<p>
+    Your participation will be highly valuable, and your responses will contribute significantly towards promoting a more inclusive financial environment for the LGBTI community in India.
+</p>","<b>A. परिचय और सहमति <br></b><br>
+गुड मॉर्निंग/ आफ्टरनून/ इवनिंग। मैं [इंटरव्यूअर का नाम] इप्सोस से हूँ। इप्सोस एक ग्लोबल रिसर्च संगठन है, जो दुनिया भर में अलग-अलग सामाजिक और जनमत से जुड़े विषयों पर लोगों की राय जानने का काम करती है।
+<p>
+    <b>स्टडी का परिचय</b>
+</p>
+<p>
+  हम वर्ल्ड बैंक ग्रुप के एक सदस्य, इंटरनेशनल फाइनेंस कॉरपोरेशन (IFC) की ओर से LGBTI कम्युनिटी के वित्तीय समावेशन/ फाइनेंसियल इन्क्लूजन पर महत्वपूर्ण जानकारी एकत्र करने के लिए यह स्टडी कर रहे हैं। इस स्टडी का उद्देश्य भारत में LGBTI कम्युनिटी के वित्तीय समावेशन/ फाइनेंसियल इन्क्लूजन से जुड़ी बाधाओं और अवसरों, दोनों पर जानकारी एकत्र करना है। आपकी भागीदारी से हमें ऐसे महत्वपूर्ण सुझाव मिलेंगे जो बैंकों और वित्तीय संस्थानों को LGBTI कम्युनिटी की ज़रूरतों के अनुसार बेहतर प्रोडक्ट और सर्विसेज बनाने में मदद करेंगे।
+</p>
+<p>
+    <b>सर्वे का विषय और अवधि </b>:
+</p>
+<p>
+    इस सर्वे में ऐसे प्रश्न शामिल हैं जो यह समझने में मदद करेंगे कि आप विभिन्न वित्तीय संस्थानों (जैसे बैंक, लोन या मॉर्गेज कंपनियाँ आदि) से वित्तीय प्रोडक्ट्स (जैसे बैंक खाता, बीमा आदि) या सर्विसेज (जैसे लोन आदि) का उपयोग कैसे करते हैं और आपके अनुभव कैसे रहे हैं। इस सर्वे में भाग लेने में आपका लगभग 30 मिनट का समय लगेगा।
+</p>
+<p>
+    <b>स्वैच्छिक भागीदारी</b>
+</p>
+<p>
+    आपकी भागीदारी पूरी तरह से स्वैच्छिक है। आप किसी भी समय इस सर्वे से बिना किसी परिणाम या परेशानी के बाहर निकल सकते हैं।
+</p>
+<p>
+    <b>गोपनीयता और डाटा स्टोरेज</b>
+</p>
+<p>
+    इस स्टडी में एकत्र की गई सारी जानकारी पूरी तरह गोपनीय रखी जाएगी और केवल रिसर्च के उद्देश्यों के लिए ही उपयोग की जाएगी। डेटा को बिना किसी व्यक्तिगत पहचान के और सुरक्षित रूप से स्टोर किया जाएगा, ताकि आपकी पहचान गुप्त बनी रहे।
+</p>
+<p>
+    <b>संभावित जोखिम </b>
+</p>
+<p>
+    हम समझते हैं कि वित्तीय समावेशन/ फाइनेंसियल इन्क्लूजन से जुड़ी चर्चाओं में भाग लेना बहुत कम जोखिम वाला है। हम सभी प्रतिभागियों की गोपनीयता और सहजता बनाए रखने के लिए नैतिक दिशानिर्देशों का सख्ती से पालन करने के लिए प्रतिबद्ध हैं।
+</p>
+<p>
+    <b>सूचित सहमति </b>:
+</p>
+<p>
+    आपकी भागीदारी हमारे लिए अत्यंत मूल्यवान है। आपके उत्तर भारत में LGBTI कम्युनिटी के लिए एक अधिक समावेशी वित्तीय वातावरण बनाने में महत्वपूर्ण योगदान देंगे।
+</p>
+"
+survey.Page6.A1.title,A1. Do you have any questions?,A1. क्या आपके पास कोई प्रश्न है?
+survey.Page6.A1.choices.1,Yes,हाँ
+survey.Page6.A1.choices.2,No,नहीं
+survey.Page7.A1_1.title,"If yes, record the question and provide response","यदि हाँ, प्रश्न दर्ज करें और जवाब दें"
+survey.Page8.A2.title,"A2. With your permission, can we proceed?","A2. आपकी अनुमति से, क्या हम आगे बढ़ सकते हैं?"
+survey.Page8.A2.description,"If No, Thank you for your time","यदि नहीं, आपके समय के लिए धन्यवाद"
+survey.Page8.A2.choices.1,Yes,हाँ
+survey.Page8.A2.choices.2,No,नहीं
+survey.Page9.Int2.html,"<b>B. Demographic Information</b><br>
+<br>
+To begin, I will ask you some questions about your personal details such as age, gender, education, place of residence etc. ","<b>B. डेमोग्राफिक्स जानकारी</b><br>
+<br>
+शुरू करने के लिए, मैं आपसे आपके कुछ व्यक्तिगत विवरण जैसे आपकी उम्र, लिंग, शिक्षा, निवास स्थान आदि के बारे में कुछ प्रश्न पूछूँगा/ पूछूंगी।"
+survey.Page10.B1.title,B1. Can you please tell your age in complete years?,B1. कृपया पूरे सालों में मुझे अपनी उम्र बताएं?
+survey.Page11.B1_PostCode.title,POST CODE,पोस्ट कोड
+survey.Page11.B1_PostCode.choices.1,Less than 20 years,20 साल से कम
+survey.Page11.B1_PostCode.choices.2,21 - 24 Years,21 - 24 साल
+survey.Page11.B1_PostCode.choices.3,25 - 35 Years,25 - 35 साल
+survey.Page11.B1_PostCode.choices.4,36 - 45 Years,36 - 45 साल
+survey.Page11.B1_PostCode.choices.5,45 - 60 Years,45 - 60 साल
+survey.Page11.B1_PostCode.choices.6,More than 60 years,60 साल से अधिक
+survey.Page12.B2.title,B2. How would you describe your gender identity?,B2. आप अपने लैंगिक पहचान/ जेंडर आइडेंटिटी का वर्णन कैसे करेंगे/ करेंगी?
+survey.Page12.B2.choices.1,Man,पुरुष
+survey.Page12.B2.choices.2,Woman,महिला
+survey.Page12.B2.choices.3,Transgender,ट्रांसजेंडर
+survey.Page12.B2.choices.4,Other (Please Specify),अन्य (कृपया बताएं)
+survey.Page12.B2.choices.99,I am not sure,मुझे पक्का पता नहीं
+survey.Page13.B3.title,B3.  Which of the following best describes your sexual orientation?,B3. निम्नलिखित में से कौन आपके सेक्सुअल ओरिएंटेशन/ लैंगिक झुकाव का सबसे अच्छा वर्णन करता है?
+survey.Page13.B3.choices.1,Heterosexual or straight,हेटरोसेक्सुअल या स्ट्रेट
+survey.Page13.B3.choices.2,Lesbian,लेस्बियन
+survey.Page13.B3.choices.3,Gay,गे
+survey.Page13.B3.choices.4,Bisexual,बाइसेक्सुअल
+survey.Page13.B3.choices.5,Other (Please Specify),अन्य (कृपया बताएं)
+survey.Page13.B3.choices.99,I am not sure,मुझे पक्का पता नहीं
+survey.Page14.B4.title,B4. Which of the following best describes the sex you were assigned at birth?,B4. निम्नलिखित में से कौन सबसे अच्छा वर्णन करता है कि जन्म के समय आपका कौन सा लिंग/ सेक्स निर्धारित किया गया था?
+survey.Page14.B4.description,"Male or Female or Intersex: Some people are assigned male or female at birth but are born with sexual anatomy, reproductive organs, and/or chromosome patterns that do not fit the typical definition of male or female. This physical condition is known as intersex. ","पुरुष या महिला या इंटरसेक्स : कुछ लोगों को जन्म के समय पुरुष या महिला लिंग दिया जाता है, लेकिन उनकी यौन शारीरिक संरचना, प्रजनन अंग और/ या क्रोमोसोम पैटर्न सामान्य पुरुष या महिला की परिभाषा में फिट नहीं होते। इस शारीरिक स्थिति को इंटरसेक्स कहा जाता है।"
+survey.Page14.B4.choices.1,Female,महिला
+survey.Page14.B4.choices.2,Male,पुरुष
+survey.Page14.B4.choices.3,Intersex,इंटरसेक्स
+survey.Page15.B5.title,B5. What is your highest level of education?,B5. आपकी शिक्षा का उच्चतम स्तर क्या है?
+survey.Page15.B5.choices.1,No education,कोई शिक्षा नहीं
+survey.Page15.B5.choices.2,Literate but no formal schooling,पढ़ालिखा लेकिन औपचारिक स्कूली शिक्षा नहीं
+survey.Page15.B5.choices.3,Up to Primary (class 1 to 5),प्राइमरी (कक्षा 1 से 5) तक
+survey.Page15.B5.choices.4,Up to class 8,कक्षा 8 तक
+survey.Page15.B5.choices.5,Below Secondary (class 10),सेकेंडरी (कक्षा 10) से नीचे
+survey.Page15.B5.choices.6,Secondary (class 10) completed,सेकेंडरी (कक्षा 10) पूरी
+survey.Page15.B5.choices.7,Higher Secondary incomplete,हायर सेकेंडरी अधूरी
+survey.Page15.B5.choices.8,Higher Secondary (class 12) completed,हायर सेकेंडरी (कक्षा 12) पूरी
+survey.Page15.B5.choices.9,Diploma/Vocational/ITI,डिप्लोमा/ वोकेशनल/ आईटीआई
+survey.Page15.B5.choices.10,Graduate,ग्रेजुएट
+survey.Page15.B5.choices.11,Postgraduate or above,पोस्ट ग्रेजुएट या इससे ऊपर
+survey.Page15.B5.choices.98,Donâ€™t know,पता नहीं
+survey.Page15.B5.choices.99,Prefer not to say,बताना नहीं चाहते
+survey.Page16.B6.title,B6. Which of the following documents do you possess?  ,B6. आपके पास निम्नलिखित में से कौन-कौन से डॉक्यूमेंट हैं?
+survey.Page16.B6.B6_1.title,Aadhar card,आधार कार्ड
+survey.Page16.B6.B6_1.choices.1,"Yes, I have","हाँ, मेरे पास है"
+survey.Page16.B6.B6_1.choices.2,"No, I applied but did not receive","नहीं, मैंने अप्लाई किया है लेकिन मिला नहीं"
+survey.Page16.B6.B6_1.choices.3,"No, I did not apply for this","नहीं, मैंने इसके लिए अप्लाई नहीं किया"
+survey.Page16.B6.B6_2.title,Voter Id card,वोटर आईडी कार्ड
+survey.Page16.B6.B6_2.choices.1,"Yes, I have","हाँ, मेरे पास है"
+survey.Page16.B6.B6_2.choices.2,"No, I applied but did not receive","नहीं, मैंने अप्लाई किया है लेकिन मिला नहीं"
+survey.Page16.B6.B6_2.choices.3,"No, I did not apply for this","नहीं, मैंने इसके लिए अप्लाई नहीं किया"
+survey.Page16.B6.B6_3.title,Pan card,पैन कार्ड
+survey.Page16.B6.B6_3.choices.1,"Yes, I have","हाँ, मेरे पास है"
+survey.Page16.B6.B6_3.choices.2,"No, I applied but did not receive","नहीं, मैंने अप्लाई किया है लेकिन मिला नहीं"
+survey.Page16.B6.B6_3.choices.3,"No, I did not apply for this","नहीं, मैंने इसके लिए अप्लाई नहीं किया"
+survey.Page16.B6.B6_4.title,Driving License,ड्राइविंग लाइसेंस
+survey.Page16.B6.B6_4.choices.1,"Yes, I have","हाँ, मेरे पास है"
+survey.Page16.B6.B6_4.choices.2,"No, I applied but did not receive","नहीं, मैंने अप्लाई किया है लेकिन मिला नहीं"
+survey.Page16.B6.B6_4.choices.3,"No, I did not apply for this","नहीं, मैंने इसके लिए अप्लाई नहीं किया"
+survey.Page16.B6.B6_5.title,Passport,पासपोर्ट
+survey.Page16.B6.B6_5.choices.1,"Yes, I have","हाँ, मेरे पास है"
+survey.Page16.B6.B6_5.choices.2,"No, I applied but did not receive","नहीं, मैंने अप्लाई किया है लेकिन मिला नहीं"
+survey.Page16.B6.B6_5.choices.3,"No, I did not apply for this","नहीं, मैंने इसके लिए अप्लाई नहीं किया"
+survey.Page16.B6.B6_others.title,Any Other (specify),कोई अन्य (बताएं)
+survey.Page17.B7.title,B7. Can you please tell me the reason for not receiving the document that you applied for?,B7. क्या आप मुझे बता सकते हैं कि आपने जिस डॉक्यूमेंट के लिए अप्लाई किया था  वह आपको क्यों नहीं मिला?
+survey.Page17.B7.B7_1.title,Aadhar card,आधार कार्ड
+survey.Page17.B7.B7_2.title,Voter Id card,वोटर आईडी कार्ड
+survey.Page17.B7.B7_3.title,Pan card,पैन कार्ड
+survey.Page17.B7.B7_4.title,Driving License,ड्राइविंग लाइसेंस
+survey.Page17.B7.B7_5.title,Passport,पासपोर्ट
+survey.Page17.B7.B7_6.title,{B6_others},{B6_अन्य}
+survey.page17.Int3.html,"<b>C. Economic Status</b><br>
+I will ask you some questions related to your employment or business engagements.<br><br>
+
+<b>C1. Engagement in Economic Activities (Employment/Entrepreneurship)</b>
+","<b>C. आर्थिक स्थिति</b><br>
+मैं आपसे आपके रोजगार या व्यवसाय से जुड़े कुछ प्रश्न पूछूँगा/ पूछूँगी।<br><br>
+
+<b>C1. आर्थिक गतिविधियों में भागीदारी (रोजगार/ व्यवसाय)</b>
+"
+survey.Page19.C1.title,C1. Which of this best describes your current work situation? Please mention your main working status.,C1. इसमें से कौन आपके वर्तमान काम की स्थिति का सबसे अच्छा वर्णन करता है? कृपया अपने मुख्य कामकाज की स्थिति के बारे में बताएं।
+survey.Page19.C1.description,Read options,विकल्प पढ़ें
+survey.Page19.C1.noneText,Refused,मना कर दिया
+survey.Page19.C1.otherText,Other Specify,अन्य बताएं
+survey.Page19.C1.choices.1,Paid employment (Work for Someone else) ,वेतनभोगी रोज़गार (किसी और के लिए काम)
+survey.Page19.C1.choices.2,Self-employed (Work for Yourself),स्व-रोज़गार (अपने लिए काम)
+survey.Page19.C1.choices.3,"Own a business, alone or with someone else",अकेले या किसी और के साथ व्यवसाय का मालिक
+survey.Page19.C1.choices.4,Apprentice,प्रशिक्षु
+survey.Page19.C1.choices.5,Looking after the home,घर की देखभाल
+survey.Page19.C1.choices.6,Looking for work (unemployed),काम की तलाश (बेरोज़गार)
+survey.Page19.C1.choices.7,Retired,रिटायर्ड
+survey.Page19.C1.choices.8,Unable to work due to sickness or ill-health,बीमारी या अस्वस्थ होने के कारण काम करने में असमर्थ
+survey.Page19.C1.choices.9,Not working and not looking for work,काम नहीं कर रहे और काम की तलाश नहीं कर रहे है
+survey.Page19.C1.choices.10,Student,छात्र
+survey.Page19.C1.choices.11,Other Specify,अन्य बताएं
+survey.Page19.C1.choices.99,Refused,मना कर दिया
+survey.Page20.C3.title,"C3. Are you currently engaged in a full time, part-time or ad-hoc job/employment?","C3. क्या आप इस समय फुल टाइम, पार्ट टाइम या ऐडहॉक( अस्थायी) नौकरी/ रोजगार कर रहे हैं?"
+survey.Page20.C3.otherText,Part time (Specify # of hours per week),पार्ट टाइम (प्रति हफ्ते घंटे की # बताएं)
+survey.Page20.C3.choices.1,Full time,फुल टाइम
+survey.Page20.C3.choices.2,Part time,पार्ट टाइम
+survey.Page20.C3.choices.3,Ad-hoc-As and when required,ऐडहॉक/ अस्थायी जब भी आवश्यकता हो
+survey.Page20.C3_2.title, Please Specify the number of hours per week,कृपया प्रति हफ्ते घंटे की संख्या बताएं
+survey.Page21.C4.title,C4. Which of the following best describes the organization or sector where you work?,"C4. निम्नलिखित में से कौन-सा विकल्प उस संस्था या सेक्टर/ क्षेत्र का सबसे अच्छा वर्णन करता है, जहाँ आप काम करते हैं?"
+survey.Page21.C4.description,Read options,विकल्प पढ़ें
+survey.Page21.C4.noneText,Ad-hoc-As and when required,ऐडहॉक/ अस्थायी जब भी आवश्यकता हो
+survey.Page21.C4.otherText,Any other Specify,कोई अन्य बताएं
+survey.Page21.C4.choices.1,Public Sector (Government),सार्वजनिक क्षेत्र (सरकारी)
+survey.Page21.C4.choices.2,Private Sector (Large Corporates),निजी क्षेत्र (बड़ी कंपनियाँ)
+survey.Page21.C4.choices.3,Private Sector (Small/Medium Enterprises),निजी क्षेत्र (लघु/मध्यम उद्यम)
+survey.Page21.C4.choices.4,Non-government organisation,गैर-सरकारी संगठन
+survey.Page21.C4.choices.5,Cooperative Societies,सहकारी समितियाँ
+survey.Page21.C4.choices.6,Small shops,छोटी दुकानें
+survey.Page21.C4.choices.7,"Employerâ€™s household (private households employing maid servant, watchman, cook, etc.)","नियोक्ता का घर (नौकरानी, ​​चौकीदार, रसोइया आदि रखने वाले निजी घर)"
+survey.Page21.C4.choices.8,Any other Specify,कोई अन्य बताएं
+survey.Page22.C5.title,C5. How would you describe your job?,C5. आप अपने जॉब/ नौकरी का वर्णन कैसे करेंगे?
+survey.Page22.C5.choices.1,Unskilled Work,अकुशल कार्य
+survey.Page22.C5.choices.2,"Skilled worker/ Professional (doctor, lawyer, architects, artist, etc.) (Specify)","कुशल कर्मचारी/ प्रोफेशनल (डॉक्टर, वकील, वास्तुकार (आर्किटेक्ट), कलाकार (आर्टिस्ट), आदि) (बताएं)"
+survey.Page22.C5.choices.3,Others (Specify),अन्य (बताएं)
+survey.Page23.C6.title,C6. What is your monthly income?,C6. आपकी मासिक आय कितनी है?
+survey.Page23.C6.choices.1,"Less than Rs. 10,000/-","Rs. 10,000/- से कम"
+survey.Page23.C6.choices.2,"Rs. 10,000/- to Rs. 25,000/-","Rs. 10,000/- से Rs. 25,000/-"
+survey.Page23.C6.choices.3,"Rs. 25,000/- to Rs. 50,000/-","Rs. 25,000/- से Rs. 50,000/-"
+survey.Page23.C6.choices.4,"Rs. 50,000/- to Rs. 1,00,000/-","Rs. 50,000/- से Rs. 1,00,000/-"
+survey.Page23.C6.choices.5,"Rs. 1,00,000/- to Rs.3,00,000/-","Rs. 1,00,000/- से Rs.3,00,000/-"
+survey.Page23.C6.choices.6,"More than Rs. 3,00,000/-","Rs. 3,00,000/- से अधिक"
+survey.Page23.C6.choices.99,Prefer not to say,बताना नहीं चाहते
+survey.Page24.C7.title,C7. Do you receive any financial assistance or benefits from any other sources?,C7. क्या आपको किसी अन्य स्रोत से कोई आर्थिक सहायता या लाभ मिलता है?
+survey.Page24.C7.description,Read options,विकल्प पढ़ें
+survey.Page24.C7.choices.1,Government cash subsidies or other cash payments from the government (including scholarships),सरकारी नकद सहायता या सरकार से अन्य नकद भुगतान (जिसमें छात्रवृत्ति भी शामिल है)
+survey.Page24.C7.choices.2,"Remittances/money sent from others, either in the countries or abroad",देश के भीतर या विदेश से दूसरों द्वारा भेजी गई धनराशि
+survey.Page24.C7.choices.3,Pension,पेंशन
+survey.Page24.C7.choices.4,Rental from property ,प्रॉपर्टी से किराया
+survey.Page24.C7.choices.5,Any other (Specify),कोई अन्य (बताएं)
+survey.Page24.C7.choices.6,None of the above,इनमें से कोई नहीं
+survey.Page24.C7.choices.98,Donâ€™t know,पता नहीं
+survey.Page24.C7.choices.99,Refused,मना कर दिया
+survey.Page25.title,C2. Financial Goals,C2. फाइनेंसियल गोल (वित्तीय लक्ष्य)
+survey.Page25.C8.title,C8. What are your financial goals for the next five years?,C8. अगले पांच सालों के लिए आपके वित्तीय लक्ष्य क्या हैं?
+survey.Page25.C8.choices.1,"Build financial stability (secure stable employment, regular income)",आर्थिक रूप से स्थिर बनना (स्थायी रोजगार और नियमित आय सुनिश्चित करना)
+survey.Page25.C8.choices.2,"Save for future security (emergency fund, long-term savings)","भविष्य की सुरक्षा के लिए बचत करना (इमरजेंसी फण्ड, लॉन्ग-टर्म सेविंग)"
+survey.Page25.C8.choices.3,Invest in education or skills development (for self or family),शिक्षा या कौशल विकास में निवेश करना (अपने या परिवार के लिए)
+survey.Page25.C8.choices.4,"Comprehensive Healthcare - Secure Healthcare needs, current and future",संपूर्ण स्वास्थ्य सुरक्षा – वर्तमान और भविष्य की स्वास्थ्य आवश्यकताओं के लिए
+survey.Page25.C8.choices.5,Start or expand a personal business,अपना व्यवसाय शुरू करना या बढ़ाना
+survey.Page25.C8.choices.6,"Purchase a home or another major asset (e.g., land, vehicle)","घर या कोई बड़ी संपत्ति (जैसे ज़मीन, गाड़ी आदि) खरीदना"
+survey.Page25.C8.choices.7,Repay debts / loans,कर्ज़/ लोन चुकाना
+survey.Page25.C8.choices.8,Plan for retirement / long-term financial independence,रिटायरमेंट या दीर्घकालिक आर्थिक स्वतंत्रता की योजना बनाना
+survey.Page25.C8.choices.9,Other Specify,अन्य बताएं
+survey.Page25.C8.choices.99,Donâ€™t know,पता नहीं
+survey.Page26.C9.title,"C9. On a scale of 1 to 5, where 1 is not at all confident and 5 is very confident, how would you rate your confidence to achieve your financial goal? ","C9. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है बिल्कुल भी आश्वस्त नहीं और 5 का मतलब है बहुत आश्वस्त , आप अपने वित्तीय लक्ष्य को प्राप्त करने के लिए अपने आत्मविश्वास को कैसे रेट करेंगे?"
+survey.Page26.C9.choices.1,Not at all confident,बिल्कुल भी आश्वस्त नहीं
+survey.Page26.C9.choices.2,Not so confident,ज्यादा आश्वस्त नहीं
+survey.Page26.C9.choices.3,Moderately confident,काफी आश्वस्त
+survey.Page26.C9.choices.4,Confident,आश्वस्त
+survey.Page26.C9.choices.5,Very Confident,बहुत आश्वस्त
+survey.Page27.C10.title,C10. Which one of the following best describes how well you are managing financially these days?,C10. निम्नलिखित में से कौन सा एक विकल्प सबसे अच्छा वर्णन करता है कि आप इन दिनों अपनी आर्थिक स्थिति को कितनी अच्छी तरह संभाल रहे हैं?
+survey.Page27.C10.description,Read options,विकल्प पढ़ें
+survey.Page27.C10.choices.1,Finding it difficult to get by,गुज़ारा करने में कठिनाई हो रही है
+survey.Page27.C10.choices.2,Just getting by,किसी तरह गुजारा हो रहा है
+survey.Page27.C10.choices.3,Doing okay,ठीक-ठाक चल रहा है
+survey.Page27.C10.choices.4,Living comfortably,आराम से जीवन बिता रहे है
+survey.Page27.C10.choices.98,Donâ€™t know,पता नहीं
+survey.Page27.C10.choices.99,Refused,मना कर दिया
+survey.Page28.title,C3. Household Assets:,C3. घरेलू संपत्तियां:
+survey.Page28.C11.title,C11. What is your current living arrangement?,C11. आपकी वर्तमान रहने की व्यवस्था क्या है?
+survey.Page28.C11.choices.1,Own a house/apartment,खुद का घर/ अपार्टमेंट है
+survey.Page28.C11.choices.2,Rent a house/apartment,किराए के घर/ अपार्टमेंट में रहते है
+survey.Page28.C11.choices.3,Living with family (not owner of the house),परिवार के साथ रहते हैं (घर के मालिक नहीं)
+survey.Page28.C11.choices.4,Shared accommodation),किसी के साथ में रहते हैं
+survey.Page28.C11.choices.5,Hostels/Dormitories,हॉस्टल/ डॉरमिटरी में रहते हैं
+survey.Page28.C11.choices.6,Other (specify),अन्य (बताएं)
+survey.Page29.C12.title,"C12. Do you currently stay with family, friends or community members?","C12. क्या आप इस समय परिवार, दोस्तों या समुदाय के सदस्यों के साथ रहते हैं?"
+survey.Page29.C12.choices.1,Alone,अकेले
+survey.Page29.C12.choices.2,Family,परिवार के साथ
+survey.Page29.C12.choices.3,Friends,दोस्तों के साथ
+survey.Page29.C12.choices.4,Community Members,समुदाय के सदस्यों के साथ
+survey.Page29.C12.choices.5,Other (specify),अन्य (बताएं)
+survey.Page30.C13.title,C13. Do you have access to any of the following?,C13. क्या आपके पास इनमें से किसी भी चीज की सुविधा है?
+survey.Page30.C13.choices.1,Basic Phone,बेसिक फोन
+survey.Page30.C13.choices.2,Smartphone,स्मार्टफोन
+survey.Page30.C13.choices.3,Laptop,लैपटॉप
+survey.Page30.C13.choices.4,Desktop,डेस्कटॉप
+survey.Page30.C13.choices.5,Tablet,टैबलेट
+survey.Page30.C13.choices.99,None,कोई नहीं
+survey.Page31.C14.title,"C14. Do you have access to the internet, including through your mobile phone, your householdâ€™s broadband connection, hot-spots. or wi-fi, at home, at  educational institutions or at work?","C14. क्या आपके पास मोबाइल फोन, आपके घर के ब्रॉडबैंड कनेक्शन, हॉटस्पॉट या घर पर, शैक्षणिक संस्थान में या कार्यस्थल पर वाई-फाई के माध्यम से इंटरनेट की सुविधा है?"
+survey.Page31.C14.choices.1,Yes,हाँ
+survey.Page31.C14.choices.2,No,नहीं
+survey.Page32.C15.title,C15. Do you own any land property?,C15. क्या आपके पास कोई भूमि है?
+survey.Page32.C15.choices.1,"Yes, Non-agricultural Land","हाँ, गैर कृषि भूमि"
+survey.Page32.C15.choices.2,"Yes, Agricultural Land","हाँ, कृषि भूमि"
+survey.Page32.C15.choices.3,No,नहीं
+survey.Page33.Int4.html,"<b>D. Financial Services Products and Services: Awareness, Access, Use and Barriers<br></b><br>
+Now, I will ask you questions related to access to different financial products and services and interaction with financial institutions. 
+<br><br>
+<b>D1. Awareness and Use of Financial Products and Services</b>","<b>D. वित्तीय सेवाएँ/ सर्विसेज प्रोडक्ट्स और सर्विसेज: जानकारी, पहुँच, उपयोग और बाधाएं<br></b><br>
+अब मैं आपसे विभिन्न वित्तीय प्रोडक्ट्स और सर्विसेज तक पहुँच और वित्तीय संस्थानों के साथ आपके अनुभव से संबंधित कुछ प्रश्न पूछूँगा/ पूछूँगी। 
+<br><br>
+<b>D1. वित्तीय प्रोडक्ट्स और सर्विसेज की जानकारी और उपयोग</b>"
+survey.Page34.D1.title,"D1. I am going to read out a list of financial products. For each one, please tell me if you are aware of it.","D1. मैं वित्तीय प्रोडक्टों की एक सूची पढ़ने जा रहा हूँ। प्रत्येक के लिए, कृपया मुझे बताएँ कि क्या आप इसके बारे में जानते हैं।"
+survey.Page34.D1.requiredErrorText,Requried Response,आवश्यक उत्तर
+survey.Page34.D1.D1_1.title,Savings and Deposits,सेविंग्स और डिपॉजिट्स (बचत और जमा)
+survey.Page34.D1.D1_1.choices.1,Savings Bank Account,सेविंग्स बैंक अकाउंट (बचत बैंक खाता)
+survey.Page34.D1.D1_1.choices.2,Fixed Deposit ,फिक्स्ड डिपॉजिट (सावधि जमा)
+survey.Page34.D1.D1_1.choices.3,Recurring Deposit,रेकरिंग डिपॉजिट (आवर्ती जमा)
+survey.Page34.D1.D1_2.title,Loans,लोन
+survey.Page34.D1.D1_2.otherText,Any other loan,कोई अन्य लोन
+survey.Page34.D1.D1_2.choices.4,Personal Loans,पर्सनल लोन
+survey.Page34.D1.D1_2.choices.5,Home Loans,होम लोन
+survey.Page34.D1.D1_2.choices.5.commentPlaceholder,Specify,बताएं
+survey.Page34.D1.D1_2.choices.6,Education Loans,एजुकेशन लोन
+survey.Page34.D1.D1_2.choices.7,Business Loans,बिज़नेस लोन
+survey.Page34.D1.D1_2.choices.8,Any Other Loan,कोई अन्य लोन
+survey.Page34.D1.D1_2_Other.title,Please Specify,कृपया बताएं
+survey.Page34.D1.D1_3.title,Credit Card,क्रेडिट कार्ड
+survey.Page34.D1.D1_3.choices.9,Buy Now Pay Later (BNPL),बाय नाउ पे लेटर (BNPL)
+survey.Page34.D1.D1_4.title,Investments,इन्वेस्टमेंट (निवेश)
+survey.Page34.D1.D1_4.choices.10,Stocks (Equities),स्टॉक्स (इक्विटी)
+survey.Page34.D1.D1_4.choices.11,Mutual Funds/ ULIPs/ ETFs,म्यूचुअल फंड/ यूलिप/ ईटीएफ
+survey.Page34.D1.D1_4.choices.12,Government Schemes & Bonds ,सरकारी योजनाएँ और बॉन्ड
+survey.Page34.D1.D1_5.title,Insurance,बीमा
+survey.Page34.D1.D1_5.choices.13,Life Insurance,जीवन बीमा
+survey.Page34.D1.D1_5.choices.14,Health Insurance,स्वास्थ्य बीमा
+survey.Page35.D2.title,"D2.  I am going to read out a list of financial products. For each one, please tell me ,if you have accessed it.","D2. मैं वित्तीय प्रोडक्टों की एक सूची पढ़ने जा रहा हूँ। प्रत्येक के लिए, कृपया मुझे बताएँ कि क्या आपने इनका उपयोग किया है।"
+survey.Page35.D2.requiredErrorText,Requried Response,आवश्यक उत्तर
+survey.Page35.D2.choices.1,Savings Bank Account,सेविंग्स और डिपॉजिट्स (बचत और जमा)
+survey.Page35.D2.choices.2,Fixed Deposit,फिक्स्ड डिपॉजिट (सावधि जमा)
+survey.Page35.D2.choices.3,Recurring Deposit ,रेकरिंग डिपॉजिट (आवर्ती जमा)
+survey.Page35.D2.choices.4,Personal Loans,पर्सनल लोन
+survey.Page35.D2.choices.5,Home Loans,होम लोन
+survey.Page35.D2.choices.6,Education Loans,एजुकेशन लोन
+survey.Page35.D2.choices.7,Business Loans,बिज़नेस लोन
+survey.Page35.D2.choices.8,{D1_2_Other},{D1_2_Other}
+survey.Page35.D2.choices.9,Buy Now Pay Later (BNPL),बाय नाउ पे लेटर (BNPL)
+survey.Page35.D2.choices.10,Stocks (Equities),स्टॉक्स (इक्विटी)
+survey.Page35.D2.choices.11,Mutual Funds/ ULIPs/ ETFs,म्यूचुअल फंड/ यूलिप/ ईटीएफ
+survey.Page35.D2.choices.12,Government Schemes & Bonds ,सरकारी योजनाएँ और बॉन्ड
+survey.Page35.D2.choices.13,Life Insurance,जीवन बीमा
+survey.Page35.D2.choices.14,Health Insurance,स्वास्थ्य बीमा
+survey.Page36.D3.title,"D3. I am going to read out a list of financial products. For each one, please tell me, if you have accessed it in the last two years.","D3. मैं वित्तीय प्रोडक्टों की एक सूची पढ़ने जा रहा हूँ। प्रत्येक के लिए, कृपया मुझे बताएँ कि क्या आपने पिछले दो सालों में इनका उपयोग किया है।"
+survey.Page36.D3.choices.1,Savings Bank Account,सेविंग्स और डिपॉजिट्स (बचत और जमा)
+survey.Page36.D3.choices.2,Fixed Deposit,फिक्स्ड डिपॉजिट (सावधि जमा)
+survey.Page36.D3.choices.3,Recurring Deposit ,रेकरिंग डिपॉजिट (आवर्ती जमा)
+survey.Page36.D3.choices.4,Personal Loans,पर्सनल लोन
+survey.Page36.D3.choices.5,Home Loans,होम लोन
+survey.Page36.D3.choices.6,Education Loans,एजुकेशन लोन
+survey.Page36.D3.choices.7,Business Loans,बिज़नेस लोन
+survey.Page36.D3.choices.8,{D1_2_Other},{D1_2_Other}
+survey.Page36.D3.choices.9,Buy Now Pay Later (BNPL),बाय नाउ पे लेटर (BNPL)
+survey.Page36.D3.choices.10,Stocks (Equities),स्टॉक्स (इक्विटी)
+survey.Page36.D3.choices.11,Mutual Funds/ ULIPs/ ETFs,म्यूचुअल फंड/ यूलिप/ ईटीएफ
+survey.Page36.D3.choices.12,Government Schemes & Bonds ,सरकारी योजनाएँ और बॉन्ड
+survey.Page36.D3.choices.13,Life Insurance,जीवन बीमा
+survey.Page36.D3.choices.14,Health Insurance,स्वास्थ्य बीमा
+survey.Page37.D4.title,D4. From where did you approach to access the mentioned financial products and services?,D4. ऊपर दिए गए वित्तीय प्रोडक्टों और सर्विसेज के उपयोग के लिए आपने किससे संपर्क किया?
+survey.Page37.D4.D4_1.title,"Savings Bank Account
+",सेविंग्स बैंक अकाउंट (बचत बैंक खाता)
+survey.Page37.D4.D4_1.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_1.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_1.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_2.title,Fixed Deposit,फिक्स्ड डिपॉजिट (सावधि जमा)
+survey.Page37.D4.D4_2.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_2.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_2.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_3.title,Recurring Deposit,रेकरिंग डिपॉजिट (आवर्ती जमा)
+survey.Page37.D4.D4_3.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_3.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_3.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_4.title,Personal Loans,पर्सनल लोन
+survey.Page37.D4.D4_4.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_4.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_4.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_4.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_5.title,Home Loans,होम लोन
+survey.Page37.D4.D4_5.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_5.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_5.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_5.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_6.title,Education Loans,एजुकेशन लोन
+survey.Page37.D4.D4_6.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_6.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_6.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_6.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_7.title,Business Loans,बिज़नेस लोन
+survey.Page37.D4.D4_7.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_7.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_7.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_7.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_8.title,{D1_2_Other},{D1_2_Other}
+survey.Page37.D4.D4_8.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_8.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_8.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_8.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_9.title,Buy Now Pay Later (BNPL),बाय नाउ पे लेटर (BNPL)
+survey.Page37.D4.D4_9.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_9.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_9.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_9.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_10.title,Stocks (Equities),स्टॉक्स (इक्विटी)
+survey.Page37.D4.D4_10.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_10.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_10.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_10.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_11.title,Mutual Funds/ ULIPs/ ETFs,म्यूचुअल फंड/ यूलिप/ ईटीएफ
+survey.Page37.D4.D4_11.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_11.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_11.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_11.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_12.title,Government Schemes & Bonds,सरकारी योजनाएँ और बॉन्ड
+survey.Page37.D4.D4_12.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_12.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_12.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_12.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_13.title,Life Insurance,जीवन बीमा
+survey.Page37.D4.D4_13.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_13.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_13.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_13.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page37.D4.D4_14.title,Health Insurance,स्वास्थ्य बीमा
+survey.Page37.D4.D4_14.choices.1,Commercial Bank,कमर्शियल बैंक
+survey.Page37.D4.D4_14.choices.2,Non-banking financial Institutions like Micro finance/FinTech,नॉन-बैंकिंग फाइनेंसियल संस्थान जैसे माइक्रो फाइनेंस/ फिन टेक
+survey.Page37.D4.D4_14.choices.3,Credit union or cooperatives,क्रेडिट यूनियन या कोऑपरेटिव( सहकारी संस्था)
+survey.Page37.D4.D4_14.choices.4,Any other (Specify),कोई अन्य (बताएं)
+survey.Page38.D5.title,"D5. Given your experience of accessing financial products and services, on a scale of 1 to 5 where 1 is not at all satisfied and 5 is very satisfied, how would you rate your access to financial products? ","D5. अपने वित्तीय प्रोडक्टों और सर्विसेज के उपयोग के अपने अनुभव के आधार पर, 1 से 5 के स्केल पर जहाँ 1 का मतलब है बिल्कुल संतुष्ट नहीं और 5 का मतलब है बहुत अधिक संतुष्ट, आप अपनी वित्तीय प्रोडक्टों के अपने उपयोग को कैसे रेट करेंगे?"
+survey.Page38.D5.choices.1,Not at all Satisfied,बिल्कुल भी संतुष्ट नहीं
+survey.Page38.D5.choices.2,Not so satisfied ,ज्यादा संतुष्ट नहीं
+survey.Page38.D5.choices.3,Moderately Satisfied,काफी संतुष्ट
+survey.Page38.D5.choices.4,Satisfied,संतुष्ट
+survey.Page38.D5.choices.5,Very Satisfied,बहुत संतुष्ट
+survey.Page39.D6.title,D6. Can you please tell me the reason for not being satisfied while accessing the products?,D6. कृपया मुझे वित्तीय प्रोडक्टों को उपयोग करते समय असंतुष्ट होने का कारण बताएं?
+survey.Page40.D7.title,"D7. On a scale of 1 to 5 where 1 Is not at all useful and 5 is very useful, how useful do you find the financial products to meet your needs?","D7. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी उपयोगी नहीं"" और 5 का मतलब है ""बहुत उपयोगी"", आप अपनी ज़रूरतों को पूरा करने में इन वित्तीय प्रोडक्टों को कितनी उपयोगी मानते हैं?"
+survey.Page40.D7.choices.1,Not at all useful,बिल्कुल भी उपयोगी नहीं
+survey.Page40.D7.choices.2,Not so useful,ज्यादा उपयोगी नहीं
+survey.Page40.D7.choices.3,Moderately useful,काफी उपयोगी
+survey.Page40.D7.choices.4,Useful,उपयोगी
+survey.Page40.D7.choices.5,Very useful,बहुत उपयोगी
+survey.Page41.D8.title,"D8. On a scale of 1 to 5 where 1 is very difficult and 5 is very easy, how easy is it for you to apply or access financial products and services?","D8. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बहुत कठिन"" और 5 का मतलब है ""बहुत आसान"", आपके लिए वित्तीय प्रोडक्टों और सर्विसेज के लिए आवेदन/ अप्लाई करना या उनका उपयोग करना कितना आसान है?"
+survey.Page41.D8.choices.1,Very difficult,बहुत कठिन
+survey.Page41.D8.choices.2,Not so easy,ज्यादा आसान नहीं
+survey.Page41.D8.choices.3,Moderately Easy,काफी आसान
+survey.Page41.D8.choices.4,Easy,आसान
+survey.Page41.D8.choices.5,Very Easy,बहुत आसान
+survey.Page42.D9.title,"D9. On a scale of 1 to 5 where 1 is not at all supporting and 5 is very supportive, how would you describe the level of support provided by consumer services?","D9. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है बिल्कुल भी सहायक नहीं और 5 का मतलब है बहुत सहायक, आप कंज्यूमर सर्विसेज द्वारा प्रदान किए गए सहायता के स्तर का वर्णन कैसे करेंगे?"
+survey.Page42.D9.choices.1,Not at all supportive,बिल्कुल भी सहायक नहीं
+survey.Page42.D9.choices.2,Not so supportive,ज्यादा सहायक नहीं
+survey.Page42.D9.choices.3,Moderately supportive,काफी सहायक
+survey.Page42.D9.choices.4,Supportive,सहायक
+survey.Page42.D9.choices.5,Very Supportive,बहुत सहायक
+survey.Page43.D10.title,"D10. In the past 2 years, has there been a need for any financial product or service that you could not access? ",D10. पिछले 2 वर्षों में क्या कोई ऐसा वित्तीय प्रोडक्ट या सर्विस रही जिसकी आपको आवश्यकता तो थी लेकिन आप उसका उपयोग नहीं कर सकें?
+survey.Page43.D10.choices.1,Yes,हाँ
+survey.Page43.D10.choices.2,No,नहीं
+survey.Page44.D11.title,D11. What were the financial products/services that you were seeking for?,D11. वे कौन से वित्तीय प्रोडक्ट्स/ सर्विसेज थीं जिनकी आपको तलाश थी?
+survey.Page44.D11.requiredErrorText,Requried Response,आवश्यक उत्तर
+survey.Page44.D11.D11_1.title,Savings and Deposits,सेविंग्स और डिपॉजिट्स (बचत और जमा)
+survey.Page44.D11.D11_1.choices.1,Savings Bank Account,सेविंग्स बैंक अकाउंट (बचत बैंक खाता)
+survey.Page44.D11.D11_1.choices.2,Fixed Deposit ,फिक्स्ड डिपॉजिट (सावधि जमा)
+survey.Page44.D11.D11_1.choices.3,Recurring Deposit,रेकरिंग डिपॉजिट (आवर्ती जमा)
+survey.Page44.D11.D11_2.title,Loans,लोन
+survey.Page44.D11.D11_2.otherText,Any other loan,कोई अन्य लोन
+survey.Page44.D11.D11_2.choices.4,Personal Loans,पर्सनल लोन
+survey.Page44.D11.D11_2.choices.5,Home Loans,होम लोन
+survey.Page44.D11.D11_2.choices.6,Education Loans,एजुकेशन लोन
+survey.Page44.D11.D11_2.choices.7,Business Loans,बिज़नेस लोन
+survey.Page44.D11.D11_2.choices.8,Any Other Loan,कोई अन्य लोन
+survey.Page44.D11.D11_2_Other.title,Please Specify,कृपया बताएं
+survey.Page44.D11.D11_3.title,Credit Card,क्रेडिट कार्ड
+survey.Page44.D11.D11_3.choices.9,Buy Now Pay Later (BNPL),बाय नाउ पे लेटर (BNPL)
+survey.Page44.D11.D11_4.title,Investments,इन्वेस्टमेंट (निवेश)
+survey.Page44.D11.D11_4.choices.10,Stocks (Equities),स्टॉक्स (इक्विटी)
+survey.Page44.D11.D11_4.choices.11,Mutual Funds/ ULIPs/ ETFs,म्यूचुअल फंड/ यूलिप/ ईटीएफ
+survey.Page44.D11.D11_4.choices.12,Government Schemes & Bonds ,सरकारी योजनाएँ और बॉन्ड
+survey.Page44.D11.D11_5.title,Insurance,बीमा
+survey.Page44.D11.D11_5.choices.13,Life Insurance,जीवन बीमा
+survey.Page44.D11.D11_5.choices.14,Health Insurance,स्वास्थ्य बीमा
+survey.Page44.D11.D11_5.choices.15,Any Others,कोई अन्य
+survey.Page44.D11.D11_5_Other.title,Please specify ,कृपया बताएं
+survey.Page45.D12.title,D12. Why could not you access ?,D12. आप क्यों उपयोग नहीं कर सकें?
+survey.Page45.D12.D12_1.title,"Savings Bank Account
+",सेविंग्स बैंक अकाउंट (बचत बैंक खाता)
+survey.Page45.D12.D12_2.title,"Fixed Deposit
+",फिक्स्ड डिपॉजिट (सावधि जमा)
+survey.Page45.D12.D12_3.title,"Recurring Deposit 
+
+",रेकरिंग डिपॉजिट (आवर्ती जमा)
+survey.Page45.D12.D12_4.title,"Personal Loans
+",पर्सनल लोन
+survey.Page45.D12.D12_5.title,"Home Loans
+
+",होम लोन
+survey.Page45.D12.D12_6.title,"Education Loans
+",एजुकेशन लोन
+survey.Page45.D12.D12_7.title,"Business Loans
+
+",बिज़नेस लोन
+survey.Page45.D12.D12_8.title,"{D11_2_Other}
+","{D11_2_Other}
+"
+survey.Page45.D12.D12_9.title,"Buy Now Pay Later (BNPL)
+
+",बाय नाउ पे लेटर (BNPL)
+survey.Page45.D12.D12_10.title,"Stocks (Equities)
+
+",स्टॉक्स (इक्विटी)
+survey.Page45.D12.D12_11.title,"Mutual Funds/ ULIPs/ ETFs
+
+",म्यूचुअल फंड/ यूलिप/ ईटीएफ
+survey.Page45.D12.D12_12.title,"Government Schemes & Bonds 
+
+",सरकारी योजनाएँ और बॉन्ड
+survey.Page45.D12.D12_13.title,"Life Insurance
+
+",जीवन बीमा
+survey.Page45.D12.D12_14.title,"Health Insurance
+
+",स्वास्थ्य बीमा
+survey.Page45.D12.D12_15.title,"{D11_5_Other}
+","{D11_5_Other}
+"
+survey.Page46.title,D2. Digital Financial Services,D2. डिजिटल फाइनेंसियल सर्विसेज
+survey.Page46.D13.title,D13. How frequently do you use digital platforms for financial transactions?,D13. आप वित्तीय लेनदेन (फाइनेंसियल ट्रांजेक्शन) के लिए कितनी बार डिजिटल प्लेटफॉर्म का उपयोग करते हैं?
+survey.Page46.D13.choices.1,Daily,रोजाना
+survey.Page46.D13.choices.2,A few times a week,हफ्ते में कुछ बार
+survey.Page46.D13.choices.3,Once a week,हफ्ते में एक बार
+survey.Page46.D13.choices.4,Once a month,महीने में एक बार
+survey.Page46.D13.choices.5,Once in few months,कुछ महीनों में एक बार
+survey.Page46.D13.choices.6,Rarely,बहुत कम
+survey.Page46.D13.choices.7,Never,कभी नहीं
+survey.Page46.D13.choices.99,Canâ€™t say,कह नहीं सकते
+survey.Page47.D14.title,"D14. Have you encountered any barriers while using mobile banking or fintech apps (Revolut, PayPal, Square, Monzo, DBS, Niyo, Jupiter, FI moneyetc.)?","D14. क्या आपने मोबाइल बैंकिंग या फिनटेक ऐप्स (जैसे रेवोल्यूट, पेपल, स्क्वायर, मोंज़ो, डीबीएस, नियो, जुपिटर, एफआई मनी आदि) का उपयोग करते समय किसी प्रकार की बाधाओं का सामना किया है?"
+survey.Page47.D14.choices.1,Yes,हाँ
+survey.Page47.D14.choices.2,No,नहीं
+survey.Page48.D15.title,"D15. What specific barriers have you faced while using digital financial services such as mobile banking, fintech apps, or digital wallets?","D15. मोबाइल बैंकिंग, फिनटेक ऐप्स या डिजिटल वॉलेट जैसी डिजिटल वित्तीय सर्विसेज का उपयोग करते समय आपको किन-किन बाधाओं का सामना करना पड़ा हैं?"
+survey.Page48.D15.choices.1,KYC requirements mandating legal names instead of chosen names,KYC आवश्यकताएँ जो चुने हुए नाम के बजाय कानूनी नाम पर जोर देती है
+survey.Page48.D15.choices.2,Inadequate customer support for addressing LGBTI-related issues (specify),LGBTI से संबंधित मुद्दों को हल करने के लिए अपर्याप्त कस्टमर सपोर्ट (बताएं)
+survey.Page48.D15.choices.3,Difficulty in accessing these services due to limited features that I need (Specify),मेरी जरूरत के अनुसार सीमित फीचर्स के कारण इन सर्विसेज के उपयोग में कठिनाई (बताएं)
+survey.Page48.D15.choices.4,Other specify,अन्य बताएं
+survey.Page49.title,D3. Product and Service Relevance ,D3. प्रोडक्ट और सर्विसेज की उपयुक्तता
+survey.Page49.D16.title,"D16. Based on your experience, what are the main gaps or challenges in the financial products and services available to the LGBTI community?","D16. आपके अनुभव के आधार पर, LGBTI कम्युनिटी के लिए उपलब्ध वित्तीय प्रोडक्टों और सर्विसेज में मुख्य कमियाँ या चुनौतियाँ क्या हैं?"
+survey.Page49.D16.choices.1,Limited loan or credit options tailored to the LGBTI community,LGBTI कम्युनिटी के लिए लोन या क्रेडिट के सीमित विकल्प
+survey.Page49.D16.choices.2,No joint account products for same-gender couples,समलैंगिक जोड़ों के लिए कोई जॉइंट अकाउंट प्रोडक्ट नहीं﻿
+survey.Page49.D16.choices.3,High interest rates or unfavourable loan terms,उच्च ब्याज दरें या असुविधाजनक लोन की शर्तें
+survey.Page49.D16.choices.4,"Few insurance products covering diverse family structures (e.g., same-gender partners, chosen families)","विभिन्न पारिवारिक संरचनाओं (जैसे समलैंगिक साथी, चुने हुए परिवार) को कवर करने वाले कुछ ही बीमा प्रोडक्ट"
+survey.Page49.D16.choices.5,Lack of LGBTI-specific financial advice or advisory services,विशेष रूप से LGBTI के लिए वित्तीय सलाह या सलाहकार सेवाओं की कमी
+survey.Page49.D16.choices.6,Limited access to digital banking or online financial service,डिजिटल बैंकिंग या ऑनलाइन वित्तीय सेवाओं तक सीमित पहुंच
+survey.Page49.D16.choices.7,"Limited options for retirement, pension, or long-term savings products","रिटायरमेंट, पेंशन, या दीर्घकालिक/ लॉन्ग-टर्म सेविंग्स प्रोडक्ट्स के सीमित विकल्प"
+survey.Page49.D16.choices.8,Other specify,अन्य बताएं
+survey.Page49.D16.choices.99,None / No gaps experienced,कोई नहीं/ कोई कमी नहीं दिखी
+survey.Page50.D17.title,"D17. Based on your experience, what actions would be most effective in addressing gaps in financial products and services for LGBTI individuals?","D17. आपके अनुभव के आधार पर, LGBTI लोगों के लिए वित्तीय प्रोडक्टों और सर्विसेज में कमी को दूर करने के लिए कौन-से उपाय सबसे प्रभावी होंगे?"
+survey.Page50.D17.description,[Do not read options] ,[विकल्पों को न पढ़ें]
+survey.Page50.D17.choices.1,"Develop new financial products specifically for the LGBTI community (e.g., inclusive loans, insurance for same-sex partners or chosen families)","विशेष रूप से LGBTI कम्युनिटी के लिए नए वित्तीय प्रोडक्ट विकसित करना (जैसे, इन्क्लूसिव लोन, समलैंगिक पार्टनर या चुने हुए परिवार के लिए बीमा)"
+survey.Page50.D17.choices.2,"Make internal policies at financial institutions more flexible (e.g., simplified KYC for trans individuals, recognizing non-traditional family structures)","वित्तीय संस्थानों की आंतरिक नीतियों को अधिक लचीला बनाना (जैसे, ट्रांसजेंडर के लिए सरल KYC, गैर-पारंपरिक पारिवारिक संरचनाओं को मान्यता देना)"
+survey.Page50.D17.choices.3,Provide better training for banking/financial institution staff on LGBTI+ sensitivity and financial needs,बैंकिंग/ वित्तीय संस्थानों के कर्मचारियों को LGBTI  के प्रति संवेदनशीलता (सेंसिटिविटी) और वित्तीय जरूरतों पर बेहतर प्रशिक्षण देना
+survey.Page50.D17.choices.4,Introduce stronger laws and regulations to protect LGBTI individuals from financial discrimination,LGBTI लोगों को वित्तीय भेदभाव से बचाने के लिए मजबूत कानून और नियम लागू करना
+survey.Page50.D17.choices.5,Increase financial literacy and awareness programs tailored for the LGBTI community,LGBTI कम्युनिटी के लिए वित्तीय साक्षरता और जागरूकता कार्यक्रम बढ़ाना
+survey.Page50.D17.choices.6,Implement inclusive branding and communication strategies that reflect LGBTI diversity,LGBTI विविधता को दर्शाने वाली समावेशी/ इन्क्लूसिव ब्रांडिंग और संचार रणनीतियाँ लागू करना
+survey.Page50.D17.choices.7,Other (Please specify),अन्य (कृपया बताएं)
+survey.Page50.D17.choices.99,Don't know / Can't say,पता नहीं/ कह नहीं सकते
+survey.Page51.title,D4. Experience of Barriers in Accessing Financial Services ,D4. वित्तीय सर्विसेज के उपयोग में आने वाली बाधाओं का अनुभव
+survey.Page51.D18.title,"D18. Have you experienced any challenges when accessing financial products or services that you feel may be related to your LGBTI identity? If youâ€™re comfortable, please share any specific situations or examples.","D18. क्या आपको कभी वित्तीय प्रोडक्टों या सर्विसेज के उपयोग में ऐसी चुनौतियों का सामना करना पड़ा है, जो आपके LGBTI पहचान से जुड़ी हो? यदि आप सहज महसूस करते हैं, तो कृपया कोई विशेष स्थिति या उदाहरण बताएं।"
+survey.Page51.D18.description,[Do not read options],[विकल्पों को न पढ़ें]
+survey.Page51.D18.choices.1,Discriminatory or harassing treatment by a bank/financial institution staff,बैंक/ वित्तीय संस्था के कर्मचारियों द्वारा भेदभावपूर्ण या परेशान करने वाला व्यवहार
+survey.Page51.D18.choices.2,Discriminatory or harassing treatment by someone else (like another customer);,"किसी अन्य व्यक्ति (जैसे, अन्य ग्राहक) द्वारा भेदभावपूर्ण या परेशान करने वाला व्यवहार"
+survey.Page51.D18.choices.3,Denied a joint account or loan with a same-gender partner,समलिंगी पार्टनर के साथ जॉइंट अकाउंट या लोन देने के लिए इंकार करना
+survey.Page51.D18.choices.4,Denied updates to your name or gender marker on your account,खाते पर अपने नाम या लिंग को अपडेट करने से इंकार करना
+survey.Page51.D18.choices.5,"Denied services due to identity documents (e.g., name or gender mismatch)",पहचान वाले डॉक्यूमेंट (जैसे नाम या लिंग का मेल न होने) के कारण सर्विस देने से इंकार करना 
+survey.Page51.D18.choices.6,Denied access to your own account or account info by a representative,प्रतिनिधि द्वारा अपने ही खाते या खाते की जानकारी के एक्सेस के लिए इंकार करना
+survey.Page51.D18.choices.7,Denied services due to multiple credit files under different names,अलग-अलग नामों के कई क्रेडिट फाइलों के कारण सर्विसेज से इंकार करना
+survey.Page51.D18.choices.8,Any other Specify,कोई अन्य बताएं
+survey.Page51.D18.choices.9,None of the above,इनमें से कोई नहीं
+survey.Page52.Intro_D18a.html,"<P>Now, I will be asking you few questions about financial abuse. In this context financial abuse means the misuse of financial products or resources by someone to control, exploit, or harm a partner or LGBTI community member. This may include: </p>
+<br>
+<p>â€¢ Restricting or taking control of another personâ€™s income, bank accounts, credit cards, or assets without permission</p>
+<br>
+<p>â€¢Opening accounts or credit cards in another personâ€™s name without their knowledge</p>
+<br>
+<p>â€¢Accumulating debt or financial liabilities in another personâ€™s name without consent</p>
+<br>","<P>अब मैं आपसे वित्तीय शोषण से संबंधित कुछ प्रश्न पूछूँगा/पूछूँगी। इस संदर्भ में, वित्तीय शोषण का अर्थ है किसी व्यक्ति द्वारा किसी पार्टनर या LGBTI कम्युनिटी के सदस्य को नियंत्रित, शोषित या नुकसान पहुँचाने के लिए वित्तीय प्रोडक्ट्स या संसाधनों का दुरुपयोग। इसमें निम्न शामिल हो सकते हैं: </p>
+<br>
+<p>â€¢ बिना अनुमति के किसी अन्य व्यक्ति की आय, बैंक खाता, क्रेडिट कार्ड या संपत्ति पर रोक लगाना या नियंत्रण लेना </p>
+<br>
+<p>â€¢बिना जानकारी के किसी अन्य व्यक्ति के नाम पर खाता खुलवाना या क्रेडिट कार्ड लेना </p>
+<br>
+<p>â€¢बिना सहमति के किसी अन्य व्यक्ति के नाम पर लोन या वित्तीय देनदारियां जमा करना </p>
+<br>"
+survey.Page52.D18a.title,"D18a. Has anyone (partner or family) ever tried to control your access to money or financial accounts (e.g., bank accounts, credit cards, investments)? ","D18a. क्या किसी ने (पार्टनर या परिवार के सदस्य ने) कभी आपके पैसे या वित्तीय खातों (जैसे बैंक खाता, क्रेडिट कार्ड, निवेश) तक आपकी पहुँच को नियंत्रित करने की कोशिश की है?"
+survey.Page52.D18a.choices.1,Yes,हाँ
+survey.Page52.D18a.choices.2,No,नहीं
+survey.Page52.D18a.choices.99,Prefer not to say,बताना नहीं चाहते
+survey.Page53_1.D18aa.title,D18aa. Who tried to control your access to money or financial accounts?,D18aa. किसने पैसे या वित्तीय खातों तक आपकी पहुँच को नियंत्रित करने की कोशिश की?
+survey.Page53_1.D18aa.choices.1,Family,परिवार
+survey.Page53_1.D18aa.choices.2,Friends,दोस्त
+survey.Page53_1.D18aa.choices.3,Partner,पार्टनर
+survey.Page53_1.D18aa.choices.4,Financial Institutions ,वित्तीय संस्थान
+survey.Page53_1.D18aa.choices.5,Any other Specify,कोई अन्य बताएं
+survey.Page53.D18b.title,"D18b. Has anyone ever pressured you or tricked you into giving them money, taking out loans in your name, or making purchases that you didn't want to make? ","D18b. क्या किसी ने कभी आप पर दबाव डालकर या आपको धोखे में रखकर उन्हें पैसे देने, आपके नाम पर लोन लेने, या ऐसी खरीदारी करने के लिए मजबूर किया जो आप करना नहीं चाहते थे?"
+survey.Page53.D18b.choices.1,Yes,हाँ
+survey.Page53.D18b.choices.2,No,नहीं
+survey.Page53.D18b.choices.99,Prefer not to say,बताना नहीं चाहते
+survey.Page53_2.D18bb.title,"D18bb. Who pressured you or tricked you into giving them money, taking out loans in your name, or making purchases that you didn't want to make?","D18bb. किसने आप पर दबाव डालकर या आपको धोखे में रखकर उन्हें पैसे देने, आपके नाम पर लोन लेने, या ऐसी खरीदारी करने के लिए मजबूर किया जो आप करना नहीं चाहते थे?"
+survey.Page53_2.D18bb.choices.1,Family,परिवार
+survey.Page53_2.D18bb.choices.2,Friends,दोस्त
+survey.Page53_2.D18bb.choices.3,Partner,पार्टनर
+survey.Page53_2.D18bb.choices.4,Financial Institutions ,वित्तीय संस्थान
+survey.Page53_2.D18bb.choices.5,Any other Specify,कोई अन्य बताएं
+survey.Page54.D18c.title,"D18c. Has this experience affected your ability to manage your finances, access credit, or save for your future?","D18c. क्या इस अनुभव ने आपकी वित्तीय स्थिति को मैनेज करने, क्रेडिट कार्ड का उपयोग करने, या अपने भविष्य के लिए बचत करने की क्षमता को प्रभावित किया है?"
+survey.Page54.D18c.choices.1,Yes,हाँ
+survey.Page54.D18c.choices.2,No,नहीं
+survey.Page54.D18c.choices.99,Prefer not to say,बताना नहीं चाहते
+survey.Page55.D18d.title,D18d. Are you aware of any resources or support services available to people experiencing financial abuse or exploitation? ,D18d. क्या आप किसी ऐसे संसाधन या सहायता सेवाओं के बारे में जानते हैं जो वित्तीय शोषण या दुर्व्यवहार का सामना कर रहे लोगों के लिए उपलब्ध हैं?
+survey.Page55.D18d.choices.1,Yes,हाँ
+survey.Page55.D18d.choices.2,No,नहीं
+survey.Page56.D18e.title,D18e. Could you please name some of these resources or services?,D18e. क्या आप इनमें से कुछ संसाधनों या सेवाओं के नाम बता सकते हैं?
+survey.Page57.D19.title,"D19. On a scale of 1 to 5 where 1 is not at all good and 5 is very good, how would you rate your interaction with frontline staff of bank/financial institutions? ","D19. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी अच्छा नहीं"" और 5 का मतलब है ""बहुत अच्छा"", आप बैंक/ वित्तीय संस्थानों के फ्रंटलाइन स्टाफ के साथ अपने अनुभव को कैसे रेट करेंगे?"
+survey.Page57.D19.choices.1,Not at all good,बिल्कुल भी अच्छा नहीं
+survey.Page57.D19.choices.2,Not good,अच्छा नहीं
+survey.Page57.D19.choices.3,Average,औसत/ सामान्य
+survey.Page57.D19.choices.4,Good,अच्छा
+survey.Page57.D19.choices.5,Very good,बहुत अच्छा
+survey.Page57.D19.choices.99,Canâ€™t Say,कह नहीं सकते
+survey.Page58.D20.title,D20. why do you say so?,D20. आप ऐसा क्यों कह रहे हैं?
+survey.Page58.D20.description,[Capture Response],[जवाब कैप्चर करें]
+survey.Page59.D20a1.title,"D20a. On a scale of 1 to 5 where 1 is not at all knowledge and 5 is very knowledgeable, how knowledgeable do you find the frontline staff of bank/financial institutions in addressing your queries or concerns related to products or documentation? ","D20a. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी जानकार नहीं"" और 5 का मतलब है ""बहुत जानकार"", आप बैंक/ वित्तीय संस्थानों के फ्रंटलाइन स्टाफ को अपने प्रोडक्टों या डॉक्यूमेंट से संबंधित प्रश्नों या चिंताओं को हल करने में कितना जानकार मानते हैं?"
+survey.Page59.D20a1.choices.1,Not at all knowledgeable,बिल्कुल भी जानकार नहीं
+survey.Page59.D20a1.choices.2,Not so knowledgeable,ज्यादा जानकार नहीं
+survey.Page59.D20a1.choices.3,Moderately knowledgeable,काफी जानकार
+survey.Page59.D20a1.choices.4,Knowledgeable,जानकार
+survey.Page59.D20a1.choices.5,Very knowledgeable,बहुत जानकार
+survey.Page59.D20a1.choices.99,Canâ€™t Say,कह नहीं सकते
+survey.Page60.D20a2.title,"D20a. On a scale of 1 to 5 where 1 is not at all helpful and 5 is very helpful, how know helpful do you find the frontline staff of bank/financial institutions in helping you access products or documentation?","D20a. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है बिल्कुल भी सहायक नहीं और 5 का मतलब है बहुत सहायक, बैंक/ वित्तीय संस्थान के फ्रंटलाइन स्टाफ अपने प्रोडक्ट्स या डॉक्यूमेंट तक आपकी पहुँच बनाने में कितना सहायक मानते हैं?"
+survey.Page60.D20a2.choices.1,Not at all helpful ,बिल्कुल भी सहायक नहीं
+survey.Page60.D20a2.choices.2,Not so helpful,ज्यादा सहायक नहीं
+survey.Page60.D20a2.choices.3,Moderately helpful,काफी सहायक 
+survey.Page60.D20a2.choices.4,Helpful,सहायक 
+survey.Page60.D20a2.choices.5,Very helpful,बहुत सहायक
+survey.Page60.D20a2.choices.99,Can't Say,कह नहीं सकते
+survey.Page61.D20b.title,"D20b. On a scale of 1 to 5, where 1 is not at all inclusive and 5 is very inclusive, how would you find the ability of frontline staff of bank/financial institutions in demonstrating inclusivity towards your personal circumstances or needs?","D20b. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी समावेशी/ इन्क्लूसिव नहीं"" और 5 का मतलब है ""बहुत समावेशी/ इन्क्लूसिव"", आप बैंक/ वित्तीय संस्थानों के फ्रंटलाइन स्टाफ की आपकी व्यक्तिगत परिस्थितियों या आवश्यकताओं के प्रति समावेशिता/ इन्क्लुसिविटी दिखाने की क्षमता को कैसे रेट करेंगे?"
+survey.Page61.D20b.choices.1,Not at all inclusive ,बिल्कुल भी समावेशी/ इन्क्लूसिव नहीं
+survey.Page61.D20b.choices.2,Not so inclusive,ज्यादा समावेशी/ इन्क्लूसिव नहीं
+survey.Page61.D20b.choices.3,Moderately inclusive ,काफी समावेशी/ इन्क्लूसिव
+survey.Page61.D20b.choices.4,Inclusive,समावेशी/ इन्क्लूसिव
+survey.Page61.D20b.choices.5,Very inclusive,बहुत समावेशी/ इन्क्लूसिव
+survey.Page61.D20b.choices.99,Canâ€™t Say,कह नहीं सकते
+survey.Page62.title,D5. Experience of Discrimination at the Workplace ,D5. कार्यस्थल पर भेदभाव का अनुभव
+survey.Page62.D21.title,D21. Does your employer have a non-discrimination or anti-harassment policy that explicitly includes sexual orientation and gender identity (LGBTQI)?,D21. क्या आपके नियोक्ता की कोई भेदभाव-रोधी या उत्पीड़न-रोधी नीति है जिसमें स्पष्ट रूप से यौन रुझान और लैंगिक पहचान (LGBTQI) शामिल हो?
+survey.Page62.D21.choices.1,Yes,हाँ
+survey.Page62.D21.choices.2,No,नहीं
+survey.Page62.D21.choices.98,Donâ€™t Know,पता नहीं
+survey.Page63.D22.title,"D22. Are there benefits available to LGBTQI employees, such as healthcare coverage for same-sex partners or gender-affirming treatments?","D22. क्या LGBTQI कर्मचारियों के लिए कोई लाभ उपलब्ध हैं, जैसे समलिंगी पार्टनरों के लिए हेल्थकेयर कवरेज या जेंडर-अफर्मिंग ट्रीटमेंट?"
+survey.Page63.D22.choices.1,Yes ,हाँ
+survey.Page63.D22.choices.2,No,नहीं
+survey.Page63.D22.choices.98,Donâ€™t Know,पता नहीं
+survey.Page64.D22a.title,D22a. What are the benefits available to LGBTQI employees?,D22a. LGBTQI कर्मचारियों के लिए कौन से लाभ उपलब्ध हैं?
+survey.Page65.D23.title,"D23. Does your employer provide equal spousal or domestic partner benefits to all employees, regardless of gender or sexual orientation? ","D23. क्या आपका नियोक्ता सभी कर्मचारियों को समान जीवनसाथी या घरेलू साथी के लाभ प्रदान करता है, भले ही उनका लिंग या यौन रुझान कोई भी हो?﻿"
+survey.Page65.D23.choices.1,Yes ,हाँ
+survey.Page65.D23.choices.2,No,नहीं
+survey.Page65.D23.choices.98,Donâ€™t Know,पता नहीं
+survey.Page66.D24.title,"D24. Does your organization provide wellbeing resources (financial, physical, emotional) or support systems that are tailored for LGBTQI employees? ","D24. क्या आपका संगठन LGBTQI कर्मचारियों के लिए विशेष रूप से तैयार किए गए कल्याण संसाधन (वित्तीय, शारीरिक, मानसिक) या सहायता प्रणाली प्रदान करता है?"
+survey.Page66.D24.choices.1,Yes ,हाँ
+survey.Page66.D24.choices.2,No,नहीं
+survey.Page66.D24.choices.98,Donâ€™t Know,पता नहीं
+survey.Page66_1.D24a.title,D24a. What are the wellbeing resources or support provided by your organisation to LGBTQI employees? ,D24a. आपका संगठन LGBTQI कर्मचारियों को कैसे से कल्याण संसाधन या सहायता प्रदान करता है?
+survey.Page66_1.D24a.description,Capture Response,जवाब कैप्चर करें
+survey.Page67.title,E. Disclosure of SOGI details,E. SOGI विवरण का खुलासा
+survey.Page67.E1.title,"E1. Were you required to provide details on Sexual Orientation and Gender Identity related information to access any financial products and services?
+",E1. क्या किसी वित्तीय प्रोडक्ट या सेवा तक पहुँचने के लिए आपको यौन रुझान और लैंगिक पहचान से संबंधित जानकारी प्रदान करनी पड़ी थी?
+survey.Page67.E1.choices.1,Yes,हाँ
+survey.Page67.E1.choices.2,No,नहीं
+survey.Page67.E1.choices.3,Donâ€™t know,पता नहीं
+survey.Page68.E2.title,E2. What SOGI data were you asked to provide?,E2. आपको कौन सा SOGI डेटा देने के लिए कहा गया था?
+survey.Page68.E2.choices.1,Sexual orientation,यौन रुझान
+survey.Page68.E2.choices.2,Gender identity,लैंगिक पहचान
+survey.Page68.E2.choices.3,Both sexual orientation and gender identity,यौन रुझान और लैंगिक पहचान दोनों
+survey.Page68.E2.choices.4,Other (Please specify),अन्य (कृपया बताएं)
+survey.Page69.E3.title,"E3. If there was a regulation for financial institutions to gather SOGI data to provide tailored services, how comfortable would you feel disclosing your sexual orientation or gender identity when dealing with financial institutions? ","E3.यदि वित्तीय संस्थानों के लिए यह नियम हो कि वे विशेष रूप से तैयार किए गए सेवाएँ प्रदान करने के लिए SOGI डेटा एकत्र करें, तो वित्तीय संस्थानों के साथ लेनदेन करते समय अपनी यौन रुझान या लैंगिक पहचान का खुलासा करने में आप कितना सहज महसूस करेंगे?"
+survey.Page69.E3.choices.1,Not at all comfortable,बिल्कुल भी सहज नहीं
+survey.Page69.E3.choices.2,Slightly comfortable,थोड़ा सहज
+survey.Page69.E3.choices.3,Moderately comfortable,काफी सहज
+survey.Page69.E3.choices.4,Very comfortable,बहुत सहज
+survey.Page69.E3.choices.5,Extremely comfortable,बेहद सहज
+survey.Page70.E4.title,E4. why do you say so?,E4. आप ऐसा क्यों कह रहे हैं?
+survey.Page70.E4.otherText,Other (Please specify),अन्य (कृपया बताएं)
+survey.Page70.E4.choices.1,Concern about privacy and data security,गोपनीयता और डेटा सुरक्षा को लेकर चिंता
+survey.Page70.E4.choices.2,Fear of discrimination or biased treatment,भेदभाव या पक्षपातपूर्ण व्यवहार का डर
+survey.Page70.E4.choices.3,"Others, Please specify","अन्य, कृपया बताएं"
+survey.Page71.title,F. Awareness about Grievance redressal mechanism,F. शिकायत निवारण तंत्र के बारे में जानकारी
+survey.Page71.F1.title,"F1. On a scale of 1 to 5, where 1 Not Vulnerable and 5 is Very Vulnerable, how vulnerable do you feel to the following?","F1. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी असुरक्षित नहीं"" और 5 का मतलब है ""बहुत असुरक्षित"", आप निम्न स्थितियों में खुद को कितना असुरक्षित महसूस करते हैं?"
+survey.Page71.F1.F1_1.title,"Being coerced into revealing your financial information (e.g., bank accounts, credit cards) against your will","अपनी वित्तीय जानकारी (जैसे बैंक खाता, क्रेडिट कार्ड) को अपनी इच्छा के बिना प्रकट करने के लिए मजबूर होना"
+survey.Page71.F1.F1_1.choices.1,Not Vulnerable,असुरक्षित नहीं
+survey.Page71.F1.F1_1.choices.2,Slightly Vulnerable,थोड़ा असुरक्षित
+survey.Page71.F1.F1_1.choices.3,Somewhat Vulnerable,कुछ हद तक असुरक्षित
+survey.Page71.F1.F1_1.choices.4,Vulnerable,असुरक्षित
+survey.Page71.F1.F1_1.choices.5,Very Vulnerable,बहुत असुरक्षित
+survey.Page71.F1.F1_1.choices.98,Canâ€™t say,कह नहीं सकते
+survey.Page71.F1.F1_2.title,Being denied access to your own financial resources,अपने ही वित्तीय संसाधनों तक पहुँच से वंचित होना
+survey.Page71.F1.F1_2.choices.1,Not Vulnerable,असुरक्षित नहीं
+survey.Page71.F1.F1_2.choices.2,Slightly Vulnerable,थोड़ा असुरक्षित
+survey.Page71.F1.F1_2.choices.3,Somewhat Vulnerable,कुछ हद तक असुरक्षित
+survey.Page71.F1.F1_2.choices.4,Vulnerable,असुरक्षित
+survey.Page71.F1.F1_2.choices.5,Very Vulnerable,बहुत असुरक्षित
+survey.Page71.F1.F1_2.choices.98,Canâ€™t say,कह नहीं सकते
+survey.Page71.F1.F1_3.title,Having debts or loans taken out in your name without your consent,आपकी सहमति के बिना आपके नाम पर कर्ज़ या लोन लिया जाना
+survey.Page71.F1.F1_3.choices.1,Not Vulnerable,असुरक्षित नहीं
+survey.Page71.F1.F1_3.choices.2,Slightly Vulnerable,थोड़ा असुरक्षित
+survey.Page71.F1.F1_3.choices.3,Somewhat Vulnerable,कुछ हद तक असुरक्षित
+survey.Page71.F1.F1_3.choices.4,Vulnerable,असुरक्षित
+survey.Page71.F1.F1_3.choices.5,Very Vulnerable,बहुत असुरक्षित
+survey.Page71.F1.F1_3.choices.98,Canâ€™t say,कह नहीं सकते
+survey.Page71.F1.F1_4.title,Being targeted by scams involving fake emails or messages that attempt to steal personal information,"नकली/ फेक ईमेल या मैसेज से स्कैम का शिकार होना, जो आपकी व्यक्तिगत जानकारी चुराने का प्रयास करते हैं"
+survey.Page71.F1.F1_4.choices.1,Not Vulnerable,असुरक्षित नहीं
+survey.Page71.F1.F1_4.choices.2,Slightly Vulnerable,थोड़ा असुरक्षित
+survey.Page71.F1.F1_4.choices.3,Somewhat Vulnerable,कुछ हद तक असुरक्षित
+survey.Page71.F1.F1_4.choices.4,Vulnerable,असुरक्षित
+survey.Page71.F1.F1_4.choices.5,Very Vulnerable,बहुत असुरक्षित
+survey.Page71.F1.F1_4.choices.98,Canâ€™t say,कह नहीं सकते
+survey.Page71.F1.F1_5.title,Unauthorized access to your online financial accounts by others,अन्य लोगों द्वारा आपके ऑनलाइन वित्तीय खातों तक अनधिकृत पहुँच/ एक्सेस
+survey.Page71.F1.F1_5.choices.1,Not Vulnerable,असुरक्षित नहीं
+survey.Page71.F1.F1_5.choices.2,Slightly Vulnerable,थोड़ा असुरक्षित
+survey.Page71.F1.F1_5.choices.3,Somewhat Vulnerable,कुछ हद तक असुरक्षित
+survey.Page71.F1.F1_5.choices.4,Vulnerable,असुरक्षित
+survey.Page71.F1.F1_5.choices.5,Very Vulnerable,बहुत असुरक्षित
+survey.Page71.F1.F1_5.choices.98,Canâ€™t say,कह नहीं सकते
+survey.Page72.F2.title,F2.  Can you tell me what all channels that can be approached to resolve issues encountered related to financial fraud?,F2. क्या आप बता सकते हैं कि वित्तीय धोखाधड़ी से संबंधित समस्याओं को हल करने के लिए किन-किन चैनलों से संपर्क किया जा सकता है?
+survey.Page72.F2.noneText,Don't Know,पता नहीं
+survey.Page72.F2.otherText,Other (Please Specify),अन्य (कृपया बताएं)
+survey.Page72.F2.choices.1,Community Service Organisations,सामुदायिक सेवा संगठन
+survey.Page72.F2.choices.2,Financial Institution Help desk,वित्तीय संस्थान का हेल्प डेस्क
+survey.Page72.F2.choices.3,Community Leaders,सामुदायिक नेता
+survey.Page72.F2.choices.4,Police,पुलिस
+survey.Page72.F2.choices.5,Other (Please specify),अन्य (कृपया बताएं)
+survey.Page72.F2.choices.98,Donâ€™t know,पता नहीं
+survey.Page73.F3.title,F3. What channels would you use for reporting discrimination or seeking support if you face issues while accessing financial services?,"F3. यदि आपको वित्तीय सेवाओं का उपयोग करने में समस्याओं का सामना करना पड़े, तो भेदभाव की रिपोर्ट करने या सहायता प्राप्त करने के लिए आप किन चैनलों का उपयोग करेंगे?"
+survey.Page73.F3.description,[Do not Read Options],[विकल्पों को न पढ़ें]
+survey.Page73.F3.choices.1,Community Service Organisations,सामुदायिक सेवा संगठन
+survey.Page73.F3.choices.2,Financial Institution Help desk,वित्तीय संस्थान का हेल्प डेस्क
+survey.Page73.F3.choices.3,Community Leaders,सामुदायिक नेता
+survey.Page73.F3.choices.4,Police,पुलिस
+survey.Page73.F3.choices.5,Other (Please specify),अन्य (कृपया बताएं)
+survey.Page73.F3.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.title,G. Perception on FIs and Eco-system Support,G. FI और इको-सिस्टम सपोर्ट पर धारणा
+survey.Page74.G1.title,"G1. On a scale of 1 to 5, where 1 is do not trust at all and 5 is completely trust, how much do you trust the following financial institutions?","G1. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी भरोसा नहीं"" और 5 का मतलब है ""पूरी तरह भरोसा"", आप निम्नलिखित वित्तीय संस्थाओं पर कितना भरोसा करते हैं?"
+survey.Page74.G1.G1_1.title,Commercial banks operating in India,भारत में संचालित कमर्शियल बैंक
+survey.Page74.G1.G1_1.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_1.choices.2,2,2
+survey.Page74.G1.G1_1.choices.3,3,3
+survey.Page74.G1.G1_1.choices.4,4,4
+survey.Page74.G1.G1_1.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_1.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_2.title,Insurance Companies,बीमा कंपनियां
+survey.Page74.G1.G1_2.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_2.choices.2,2,2
+survey.Page74.G1.G1_2.choices.3,3,3
+survey.Page74.G1.G1_2.choices.4,4,4
+survey.Page74.G1.G1_2.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_2.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_3.title,Mutual Fund Companies,म्यूचुअल फंड कंपनियां
+survey.Page74.G1.G1_3.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_3.choices.2,2,2
+survey.Page74.G1.G1_3.choices.3,3,3
+survey.Page74.G1.G1_3.choices.4,4,4
+survey.Page74.G1.G1_3.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_3.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_4.title,Pawn Shops,पॉन शॉप्स / गिरवी की दुकानें
+survey.Page74.G1.G1_4.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_4.choices.2,2,2
+survey.Page74.G1.G1_4.choices.3,3,3
+survey.Page74.G1.G1_4.choices.4,4,4
+survey.Page74.G1.G1_4.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_4.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_5.title,Digital Payment Platforms,डिजिटल पेमेंट प्लेटफॉर्म
+survey.Page74.G1.G1_5.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_5.choices.2,2,2
+survey.Page74.G1.G1_5.choices.3,3,3
+survey.Page74.G1.G1_5.choices.4,4,4
+survey.Page74.G1.G1_5.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_5.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_6.title,Online Lenders,ऑनलाइन लेंडर/ उधार देने वाले प्लेटफॉर्म
+survey.Page74.G1.G1_6.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_6.choices.2,2,2
+survey.Page74.G1.G1_6.choices.3,3,3
+survey.Page74.G1.G1_6.choices.4,4,4
+survey.Page74.G1.G1_6.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_6.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_7.title,Microfinance Institutions,माइक्रोफाइनेंस संस्थान
+survey.Page74.G1.G1_7.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_7.choices.2,2,2
+survey.Page74.G1.G1_7.choices.3,3,3
+survey.Page74.G1.G1_7.choices.4,4,4
+survey.Page74.G1.G1_7.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_7.choices.98,Donâ€™t know,पता नहीं
+survey.Page74.G1.G1_8.title,Credit Unions and Cooperatives,क्रेडिट यूनियन और कोऑपरेटिव (सहकारी समितियाँ)
+survey.Page74.G1.G1_8.choices.1,1-Do not trust at all,1-बिल्कुल भी भरोसा नहीं
+survey.Page74.G1.G1_8.choices.2,2,2
+survey.Page74.G1.G1_8.choices.3,3,3
+survey.Page74.G1.G1_8.choices.4,4,4
+survey.Page74.G1.G1_8.choices.5,5-Completely trust,5-पूरी तरह भरोसा
+survey.Page74.G1.G1_8.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.title,"G2. On a scale of 1 to 5, where 1 is not at all approachable and 5 is very approachable, to what extent do you think the following are approachable for you to access financial products and services?","G2. 1 से 5 के स्केल पर, जहाँ 1 का मतलब है ""बिल्कुल भी सुलभ नहीं"" और 5 का मतलब है ""बहुत सुलभ"", आप वित्तीय प्रोडक्ट्स और सर्विसेज के एक्सेस करने के लिए निम्नलिखित को किस हद अक सुलभ मानते हैं?"
+survey.Page74_1.G2.G2_1.title,Commercial banks operating in India,भारत में संचालित कमर्शियल बैंक
+survey.Page74_1.G2.G2_1.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_1.choices.2,2,2
+survey.Page74_1.G2.G2_1.choices.3,3,3
+survey.Page74_1.G2.G2_1.choices.4,4,4
+survey.Page74_1.G2.G2_1.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_1.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_2.title,Insurance Companies,बीमा कंपनियां
+survey.Page74_1.G2.G2_2.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_2.choices.2,2,2
+survey.Page74_1.G2.G2_2.choices.3,3,3
+survey.Page74_1.G2.G2_2.choices.4,4,4
+survey.Page74_1.G2.G2_2.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_2.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_3.title,Mutual Fund Companies,म्यूचुअल फंड कंपनियां
+survey.Page74_1.G2.G2_3.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_3.choices.2,2,2
+survey.Page74_1.G2.G2_3.choices.3,3,3
+survey.Page74_1.G2.G2_3.choices.4,4,4
+survey.Page74_1.G2.G2_3.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_3.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_4.title,Pawn Shops,पॉन शॉप्स / गिरवी की दुकानें
+survey.Page74_1.G2.G2_4.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_4.choices.2,2,2
+survey.Page74_1.G2.G2_4.choices.3,3,3
+survey.Page74_1.G2.G2_4.choices.4,4,4
+survey.Page74_1.G2.G2_4.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_4.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_5.title,Digital Payment Platforms,डिजिटल पेमेंट प्लेटफॉर्म
+survey.Page74_1.G2.G2_5.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_5.choices.2,2,2
+survey.Page74_1.G2.G2_5.choices.3,3,3
+survey.Page74_1.G2.G2_5.choices.4,4,4
+survey.Page74_1.G2.G2_5.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_5.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_6.title,Online Lenders,ऑनलाइन लेंडर/ उधार देने वाले प्लेटफॉर्म
+survey.Page74_1.G2.G2_6.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_6.choices.2,2,2
+survey.Page74_1.G2.G2_6.choices.3,3,3
+survey.Page74_1.G2.G2_6.choices.4,4,4
+survey.Page74_1.G2.G2_6.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_6.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_7.title,Microfinance Institutions,माइक्रोफाइनेंस संस्थान
+survey.Page74_1.G2.G2_7.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_7.choices.2,2,2
+survey.Page74_1.G2.G2_7.choices.3,3,3
+survey.Page74_1.G2.G2_7.choices.4,4,4
+survey.Page74_1.G2.G2_7.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_7.choices.98,Donâ€™t know,पता नहीं
+survey.Page74_1.G2.G2_8.title,Credit Unions and Cooperatives,क्रेडिट यूनियन और कोऑपरेटिव (सहकारी समितियाँ)
+survey.Page74_1.G2.G2_8.choices.1,1-Not at all approachable,1-बिल्कुल भी सुलभ नहीं
+survey.Page74_1.G2.G2_8.choices.2,2,2
+survey.Page74_1.G2.G2_8.choices.3,3,3
+survey.Page74_1.G2.G2_8.choices.4,4,4
+survey.Page74_1.G2.G2_8.choices.5,5-Very approachable,5-बहुत सुलभ
+survey.Page74_1.G2.G2_8.choices.98,Donâ€™t know,पता नहीं
+survey.Page76.G3.title,G3. Which of the following community networks are you associated with?,G3. आप निम्नलिखित में से किस कम्युनिटी नेटवर्क से जुड़े हैं?
+survey.Page76.G3.G3_1.title,LGBTI support groups and community centers,LGBTI सपोर्ट ग्रुप और कम्युनिटी सेंटर
+survey.Page76.G3.G3_1.choices.1,Yes,हाँ
+survey.Page76.G3.G3_1.choices.2,No,नहीं
+survey.Page76.G3.G3_2.title,LGBTI advocacy organizations,LGBTI एडवोकेसी आर्गेनाइजेशन
+survey.Page76.G3.G3_2.choices.1,Yes,हाँ
+survey.Page76.G3.G3_2.choices.2,No,नहीं
+survey.Page76.G3.G3_3.title,Online LGBTI forums and groups,ऑनलाइन LGBTI फ़ोरम और ग्रुप
+survey.Page76.G3.G3_3.choices.1,Yes,हाँ
+survey.Page76.G3.G3_3.choices.2,No,नहीं
+survey.Page76.G3.G3_4_Other.title,Others Specify,अन्य बताएं
+survey.Page76_1.G4.title,G4. Have you ever received any support from them to access financial services? ,G4. क्या आपको कभी वित्तीय सेवाओं के उपयोग के लिए उनसे सहायता मिली है?
+survey.Page76_1.G4.G4_1.title,LGBTI support groups and community centers,LGBTI सपोर्ट ग्रुप और कम्युनिटी सेंटर
+survey.Page76_1.G4.G4_1.choices.1,Yes,हाँ
+survey.Page76_1.G4.G4_1.choices.2,No,नहीं
+survey.Page76_1.G4.G4_2.title,LGBTI advocacy organizations,LGBTI एडवोकेसी आर्गेनाइजेशन
+survey.Page76_1.G4.G4_2.choices.1,Yes,हाँ
+survey.Page76_1.G4.G4_2.choices.2,No,नहीं
+survey.Page76_1.G4.G4_3.title,Online LGBTI forums and groups,ऑनलाइन LGBTI फ़ोरम और ग्रुप
+survey.Page76_1.G4.G4_3.choices.1,Yes,हाँ
+survey.Page76_1.G4.G4_3.choices.2,No,नहीं
+survey.Page76_1.G4.G4_4.title,{G3_4_Other},{G3_4_Other}
+survey.Page76_1.G4.G4_4.choices.1,Yes,हाँ
+survey.Page76_1.G4.G4_4.choices.2,No,नहीं
+survey.Page78.G5.title,G5. Can you explain what type of support you have received from them?,G5. क्या आप बता सकते है कि आपको उनसे किस प्रकार की सहायता मिली है?
+survey.Page78.G5.G5_1.title,LGBTI support groups and community centers,LGBTI सपोर्ट ग्रुप और कम्युनिटी सेंटर
+survey.Page78.G5.G5_2.title,LGBTI advocacy organizations,LGBTI एडवोकेसी आर्गेनाइजेशन
+survey.Page78.G5.G5_3.title,Online LGBTI forums and groups,ऑनलाइन LGBTI फ़ोरम और ग्रुप
+survey.Page78.G5.G5_4.title,{G3_4_Other},{G3_4_Other}
+survey.Page79.G6.title,G6. How competent are they to provide support in accessing financial services?,G6. वित्तीय सेवाओं के उपयोग में सहायता प्रदान करने में वे कितने सक्षम हैं?
+survey.Page79.G6.G6_1.title,LGBTI support groups and community centers,LGBTI सपोर्ट ग्रुप और कम्युनिटी सेंटर
+survey.Page79.G6.G6_1.choices.1,Not at all competent,बिल्कुल भी सक्षम नहीं
+survey.Page79.G6.G6_1.choices.2,Somewhat Competent ,कुछ हद तक सक्षम
+survey.Page79.G6.G6_1.choices.3,Very Competent,बहुत सक्षम
+survey.Page79.G6.G6_1.choices.4,Extremely competent,बेहद सक्षम
+survey.Page79.G6.G6_1.choices.98,Donâ€™t know,पता नहीं
+survey.Page79.G6.G6_2.title,LGBTI advocacy organizations,LGBTI एडवोकेसी आर्गेनाइजेशन
+survey.Page79.G6.G6_2.choices.1,Not at all competent,बिल्कुल भी सक्षम नहीं
+survey.Page79.G6.G6_2.choices.2,Somewhat Competent ,कुछ हद तक सक्षम
+survey.Page79.G6.G6_2.choices.3,Very Competent,बहुत सक्षम
+survey.Page79.G6.G6_2.choices.4,Extremely competent,बेहद सक्षम
+survey.Page79.G6.G6_2.choices.98,Donâ€™t know,पता नहीं
+survey.Page79.G6.G6_3.title,Online LGBTI forums and groups,ऑनलाइन LGBTI फ़ोरम और ग्रुप
+survey.Page79.G6.G6_3.choices.1,Not at all competent,बिल्कुल भी सक्षम नहीं
+survey.Page79.G6.G6_3.choices.2,Somewhat Competent ,कुछ हद तक सक्षम
+survey.Page79.G6.G6_3.choices.3,Very Competent,बहुत सक्षम
+survey.Page79.G6.G6_3.choices.4,Extremely competent,बेहद सक्षम
+survey.Page79.G6.G6_3.choices.98,Donâ€™t know,पता नहीं
+survey.Page79.G6.G6_4.title,{G3_4_Other},{G3_4_Other}
+survey.Page79.G6.G6_4.choices.1,Not at all competent,बिल्कुल भी सक्षम नहीं
+survey.Page79.G6.G6_4.choices.2,Somewhat Competent ,कुछ हद तक सक्षम
+survey.Page79.G6.G6_4.choices.3,Very Competent,बहुत सक्षम
+survey.Page79.G6.G6_4.choices.4,Extremely competent,बेहद सक्षम
+survey.Page79.G6.G6_4.choices.98,Donâ€™t know,पता नहीं
+survey.Page80.G7.title,G7. Why do you say so?,G7. आप ऐसा क्यों कह रहे हैं?
+survey.Page80.G7.G7_1.title,LGBTI support groups and community centers,LGBTI सपोर्ट ग्रुप और कम्युनिटी सेंटर
+survey.Page80.G7.G7_2.title,LGBTI advocacy organizations,LGBTI एडवोकेसी आर्गेनाइजेशन
+survey.Page80.G7.G7_3.title,Online LGBTI forums and groups,ऑनलाइन LGBTI फ़ोरम और ग्रुप
+survey.Page80.G7.G7_4.title,{G3_4_Other},{G3_4_Other}
+survey.Page81.G8.title,G8. Have you attended any program/webinar/workshop on financial literacy in the last 2 years?,G8. क्या आपने पिछले 2 सालों में वित्तीय साक्षरता पर किसी कार्यक्रम/ वेबिनार/ वर्कशॉप में भाग लिया है?
+survey.Page81.G8.choices.1,"Yes, online","हाँ, ऑनलाइन"
+survey.Page81.G8.choices.2,"Yes, offline","हाँ, ऑफलाइन"
+survey.Page81.G8.choices.3,No,नहीं
+survey.Page81_1.G9.title,G9 . Who conducted this program/webinar/workshop on financial literacy?,G9. वित्तीय साक्षरता पर यह कार्यक्रम/ वेबिनार/ वर्कशॉप किसने आयोजित की थी?
+survey.Page81_2.G10.title,G10.  What are the topics covered? ,G10. इसमें किन विषयों को शामिल किया गया है?
